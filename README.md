@@ -1,8 +1,7 @@
 <div align="center">
 
-# { NineStone }
+### ⚔️ NineStone ⚔️
 
-</br>
 <a href="https://reload1bronze.tistory.com/"><img src="https://img.shields.io/badge/BLOG-F9D142?style=flat-square"/></a>
 
 #
