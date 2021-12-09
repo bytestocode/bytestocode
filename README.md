@@ -1,12 +1,13 @@
 <div align="center">
 
 ### ⚔️ NineStone ⚔️
-
+</br>
+  
 <a href="https://reload1bronze.tistory.com/"><img src="https://img.shields.io/badge/BLOG-F9D142?style=flat-square"/></a>
 
 #
   
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+### 🛠 Tech Stack 🛠
 </br>
 
 <p align="center">
