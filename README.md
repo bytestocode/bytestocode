@@ -2,6 +2,12 @@
 
 # { blog: <a href="https://reload1bronze.tistory.com/"><img src="https://img.shields.io/badge/오늘의모험-F9D142?style=flat-square"/></a>, stack: { <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>, <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>, <img src="https://img.shields.io/badge/Node.js-649c60?style=flat-square&logo=Node.js&logoColor=white"/> } }
 
+<br>
+  
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=reload1bronze)](https://solved.ac/reload1bronze)
+
+</div>
 <!-- <p align="center"> -->
 <!-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> &nbsp -->
 <!-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> &nbsp -->
@@ -28,8 +34,6 @@
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reload1bronze&show_icons=true&theme=cobalt2) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reload1bronze&langs_count=5&layout=demo&theme=slateorange) -->
-
-</div>
 
 <!--
 **reload1bronze/reload1bronze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
