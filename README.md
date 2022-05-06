@@ -3,9 +3,9 @@
 # { blog: <a href="https://bit.ly/3EYvpfh"><img src="https://img.shields.io/badge/오늘의모험-F9D142?style=flat-square"/></a>, stack: { <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>, <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>, <img src="https://img.shields.io/badge/Node.js-649c60?style=flat-square&logo=Node.js&logoColor=white"/> } }
 
 <br>
-  
+<!--   
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=reload1bronze)](https://solved.ac/reload1bronze)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=reload1bronze)](https://solved.ac/reload1bronze) -->
 
 </div>
 <!-- <p align="center"> -->
