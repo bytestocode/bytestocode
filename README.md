@@ -7,7 +7,7 @@
 🐥JavaScript TypeScript 🐍Python 🎯Dart ☕Java   
 ```
 
-### 🔮 Arfifacts
+### 🔮 Artifacts
 ```javascript
 🤔Algorithm 💬DataStructure
 ```
