@@ -4,7 +4,7 @@
 
 ### ⚔️ Weapons
 ```javascript
-🐥JavaScript TypeScript 🐍Python   
+🐥JavaScript TypeScript  
 ```
 
 ### 🔮 Artifacts
