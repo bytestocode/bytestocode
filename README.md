@@ -23,4 +23,4 @@
 ```
 
 ### 📫 Contact Me
-- <a href="https://bit.ly/3EYvpfh">블로그 (참된 삶을 설계하는 개발자)</a>
+- <a href="https://bit.ly/3EYvpfh">블로그 (물음느낌표)</a>
