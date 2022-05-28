@@ -1,5 +1,7 @@
+<img src="LessIsMore.png">
+
 # dev-con @reload1bronze
-  
+
 ### 일상의 탐험과 작은 모험으로 성장합니다 :)
 
 ### ⚔️ Weapons
