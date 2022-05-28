@@ -1,5 +1,3 @@
-<img src="LessIsMore.png">
-
 # dev-con @reload1bronze
 
 ### 일상의 탐험과 작은 모험으로 성장합니다 :)
@@ -26,3 +24,5 @@
 
 ### 📫 Contact Me
 - <a href="https://bit.ly/3EYvpfh">블로그 (물음느낌표)</a>
+
+![less_is_more](./LessIsMore.png)
