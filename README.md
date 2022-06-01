@@ -23,6 +23,6 @@
 ```
 
 ### 📫 Contact Me
-- <a href="https://bit.ly/3EYvpfh">블로그 (물음느낌표)</a>
+- <a href="https://bit.ly/3EYvpfh">Blog (interrobang)</a>
 
 ![less_is_more](./LessIsMore.png)
