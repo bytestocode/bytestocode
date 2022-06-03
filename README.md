@@ -14,7 +14,7 @@
 
 ### ⚡ Active Skills
 ```javascript
-🦕NodeJS 🐱NestJS 🐬MySQL 🍃MongoDB   
+🦕NodeJS 🐱NestJS 🕊️Flutter 🐬MySQL 🍃MongoDB   
 ```
 
 ### 🔥 Passive Skills
