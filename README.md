@@ -3,22 +3,22 @@
 ### 일상의 탐험과 작은 모험으로 성장합니다 :)
 
 ### ⚔️ Weapons
-```javascript
+```dart
 🐥JavaScript TypeScript 🎯Dart 
 ```
 
 ### 🔮 Artifacts
-```javascript
+```dart
 🤔Algorithm 💬DataStructure
 ```
 
 ### ⚡ Active Skills
-```javascript
+```dart
 🦕NodeJS 🐱NestJS 🕊️Flutter 🐬MySQL 🍃MongoDB   
 ```
 
 ### 🔥 Passive Skills
-```javascript
+```dart
 🚩git 🏕️GitHub 😏AWS
 ```
 
