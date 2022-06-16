@@ -4,7 +4,7 @@
 
 ### ⚔️ Weapons
 ```dart
-🐥JavaScript TypeScript 🎯Dart 
+🎯Dart 🐥JavaScript ⚓TypeScript  
 ```
 
 ### 🔮 Artifacts
@@ -14,7 +14,7 @@
 
 ### ⚡ Active Skills
 ```dart
-🦕NodeJS 🐱NestJS 🕊️Flutter 🐬MySQL 🍃MongoDB   
+🕊️Flutter 🦕NodeJS 🐱NestJS 🐬MySQL 🍃MongoDB   
 ```
 
 ### 🔥 Passive Skills
