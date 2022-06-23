@@ -23,6 +23,7 @@
 ```
 
 ### 📫 Contact Me
-- <a href="https://bit.ly/3EYvpfh">Blog (interrobang)</a>
+- Blog (<a href="https://bit.ly/3EYvpfh">interrobang</a>)
+- Email (nature9th@gmail.com)
 
 ![less_is_more](./LessIsMore.png)
