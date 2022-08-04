@@ -19,7 +19,7 @@
 
 ### 🔥 Passive Skills
 ```dart
-🚩git 🏕️GitHub 😏AWS
+🚩git 🏕️GitHub Bitbucket Jira 😏AWS
 ```
 
 ### 📫 Contact Me
