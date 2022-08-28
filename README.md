@@ -4,7 +4,7 @@
 
 ### ⚔️ Weapons
 ```dart
-🎯Dart 🐥JavaScript ⚓TypeScript  
+🎯Dart 🍌JavaScript ⚓TypeScript
 ```
 
 ### 🔮 Artifacts
@@ -14,16 +14,19 @@
 
 ### ⚡ Active Skills
 ```dart
-🕊️Flutter 🦕NodeJS 🐱NestJS 🐬MySQL 🍃MongoDB   
+mobile: 🕊️Flutter 
+server: 🦕NodeJS 🐱NestJS 
+database: 🐬MySQL 🍃MongoDB 
+cloud: 😏AWS 
 ```
 
 ### 🔥 Passive Skills
 ```dart
-🚩git Bitbucket Jira 🏕️GitHub 😏AWS
+🏷git 🐙GitHub 🪣Bitbucket 🦍Jira
 ```
 
 ### 📫 Contact Me
 - Blog (<a href="https://bit.ly/3EYvpfh">interrobang</a>)
-- Email (nature9th@gmail.com)
+- Email (reload1bronze@gmail.com)
 
 ![less_is_more](./LessIsMore.png)
