@@ -2,27 +2,15 @@
 
 ### 일상의 탐험과 작은 모험으로 성장합니다 :)
 
-### ⚔️ Weapons
+### ⚔️ Active Skills
 ```dart
-🎯Dart 🍌JavaScript ⚓TypeScript
+mobile: 🪶Flutter
+cloud: 🔥Firebase
 ```
 
-### 🔮 Artifacts
+### 🛡️ Passive Skills
 ```dart
-🤔Algorithm 💬DataStructure
-```
-
-### ⚡ Active Skills
-```dart
-mobile: 🕊️Flutter 
-server: 🦕NodeJS 🐱NestJS 
-database: 🐬MySQL 🍃MongoDB 
-cloud: 🔥Firebase 😏AWS 
-```
-
-### ✨ Passive Skills
-```dart
-🏷git 🐙GitHub 🪣Bitbucket 🦍Jira
+🏷📌git 🐙GitHub 🪣Bitbucket 🦍Jira
 ```
 
 ### 📫 Contact Me
