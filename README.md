@@ -1,4 +1,4 @@
-# debug_ing @reload1bronze
+# Jaecheol Park @bytestocode
 
 ### 일상의 탐험과 작은 모험으로 성장합니다 :)
 
@@ -17,16 +17,16 @@
 mobile: 🕊️Flutter 
 server: 🦕NodeJS 🐱NestJS 
 database: 🐬MySQL 🍃MongoDB 
-cloud: 😏AWS 
+cloud: 🔥Firebase 😏AWS 
 ```
 
-### 🔥 Passive Skills
+### ✨ Passive Skills
 ```dart
 🏷git 🐙GitHub 🪣Bitbucket 🦍Jira
 ```
 
 ### 📫 Contact Me
-- Blog (<a href="https://bit.ly/3EYvpfh">interrobang</a>)
-- Email (reload1bronze@gmail.com)
+- Email (nature9th@gmail.com)
+- Blog (<a href="https://bytestocode.medium.com/">Medium</a>)
 
 ![less_is_more](./LessIsMore.png)
