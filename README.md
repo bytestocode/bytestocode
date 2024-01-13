@@ -1,1 +1,4 @@
-![less_is_more](./LessIsMore.png)
+<div align=center>
+<h3>less is more</h3>
+Mies van der Rohe
+</div>
